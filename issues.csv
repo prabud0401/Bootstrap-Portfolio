@@ -1,0 +1,7 @@
+title,body
+Implement Responsive Design,Ensure the portfolio is fully responsive on various devices. Apply necessary media queries and Bootstrap classes for optimal viewing on different screen sizes.
+Enhance Navbar Styling,Improve the styling of the navigation bar for better visual appeal and user experience. Consider adding dropdowns or icons to enhance navigation.
+Add Project Descriptions,Include detailed descriptions for each project in the work section. Provide information about technologies used, your role, and any challenges overcome.
+Optimize Image Loading,Optimize the loading of images on the portfolio to enhance performance. Consider lazy loading or optimizing image sizes for faster page rendering.
+Integrate Contact Form,Add a contact form in the about section to allow visitors to get in touch. Consider using a form library or service for easy integration.
+Improve Accessibility,Ensure the portfolio is accessible to users with disabilities. Check and enhance the use of ARIA attributes, semantic HTML, and focus styles.
