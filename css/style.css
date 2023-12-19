@@ -1,0 +1,34 @@
+body {
+    padding-top: 56px;
+    background-color: #f8f9fa; /* Light gray background */
+  }
+  
+  .navbar {
+    background-color: #17a2b8; /* Dark turquoise for the navigation bar */
+  }
+  
+  .jumbotron {
+    background-color: #f8f9fa;
+  }
+  
+  .card-deck {
+    margin-bottom: 30px;
+  }
+  
+  .img-fluid {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+  }
+  
+  #contact {
+    background-color: #343a40; /* Dark gray for the contact section */
+    color: #ffffff; /* White text for better visibility */
+  }
+  
+  #footer {
+    background-color: #17a2b8; /* Dark turquoise for the footer */
+    color: #ffffff; /* White text for better visibility */
+    padding: 20px 0;
+  }
+  
